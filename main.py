@@ -3,6 +3,7 @@
 # VORNEX-MTOOL v3 — BEAST MODE [Tek Dosya Sürümü]
 # Geliştirici: Vornexx | Eğitim ve Denetim Amaçlıdır
 # ============================================================
+#beyler bazı yerlerde çeviri kullandım bazı yerlerdende mimari kullandım ama kod bana aittir !!!!!!!
 
 import os, sys, subprocess, importlib
 
