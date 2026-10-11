@@ -44,6 +44,13 @@ Bu araç yalnızca **güvenlik testleri, eğitim ve izinli sistem analizleri** i
 
 ## 🚀 Tüm Platformlar İçin Kurulum (Tek Kod Bloğu)
 
+---
+
+## ⚠️ Dip Not
+
+Bu araç eğer ki çalışmaz ise (modül bulunamadi vs.) lütfen aracı venv (pythondaki sanal ortam) ile açınız o zaman çalışır[cite: 2].
+
+
 ```bash
 # ----------------------------------------------------
 # 1️⃣ TERMUX (ANDROID)
